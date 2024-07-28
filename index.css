@@ -1,0 +1,662 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bggif{
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-size: cover;
+}
+.bggif .vid video{
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 300%;
+  
+
+}
+.bggif .content .vid1 video{
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 100px;
+    top: 15%;
+    left: 1%;
+    
+}
+.bggif .content .umut { 
+    color: rgb(153,74,74,0.781);
+    font-family: Arial, Helvetica, sans-serif;
+    top: 0;
+    left: 2%;
+    position: absolute;
+    z-index: 1;
+    font-size: large;
+}
+
+
+
+.bggif .content .valse details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgb(153,74,74,0.781);
+    top: 32%;
+    left: 6%;
+}
+
+.bggif .content .valse p{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgb(153,74,74,0.781);
+    top: 33%;
+    left:6% ;
+    
+}
+.bggif .content .vid2 video{
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 100px;
+    top: 40%;
+    left: 1%;
+}
+.bggif .content .sentimentale details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba( 153,74,74,0.781);
+    top: 58%;
+    left: 2%;
+}
+.bggif .content .sentimentale p{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 59%;
+    left:6% ;
+}
+.bggif .content .vid3 video{
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 100px;
+    top: 65%;
+    left: 1%;
+
+}
+.bggif .content .yanımdakal details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba( 153,74,74,0.781);
+    top: 82%;
+    left: 4%;
+}
+.bggif .content .yanımdakal  .yazı{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 20%;
+    left:45% ;
+
+}
+.bggif .content .yanımdakal  .yazı1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 35%;
+    left:45% ;}
+
+    .bggif .content .yanımdakal  .yazı2{
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        z-index: 1;
+        color: rgba(153, 74, 74, 0.781);
+        top: 50%;
+        left:45% ;}
+    
+        .bggif .content .yanımdakal  .yazı3{
+            font-family: Arial, Helvetica, sans-serif;
+            position: absolute;
+            z-index: 1;
+            color: rgba(153, 74, 74, 0.781);
+            top: 70%;
+            left:45% ;}
+    
+            .bggif .content .vid4 video{
+                position: absolute;
+                z-index: 1;
+                width: 200px;
+                height: 100px;
+                top: 90%;
+                left: 1%;
+            
+            }
+            .bggif .content .derinden details summary{
+                font-family: Arial, Helvetica, sans-serif;
+                position: absolute;
+                z-index: 1;
+                color: rgba( 153,74,74,0.781);
+                top: 107%;
+                left: 3%;
+            }
+            .bggif .content .derinden .yazı4{
+                font-family: Arial, Helvetica, sans-serif;
+                position: absolute;
+                z-index: 1;
+                color: rgba(153, 74, 74, 0.781);
+                top: 10%;
+                left:45% ;}
+                .bggif .content .derinden  .yazı5{
+                    font-family: Arial, Helvetica, sans-serif;
+                    position: absolute;
+                    z-index: 1;
+                    color: rgba(153, 74, 74, 0.781);
+                    top: 25%;
+                    left:45% ;}
+                    .bggif .content .derinden  .yazı6{
+                        font-family: Arial, Helvetica, sans-serif;
+                        position: absolute;
+                        z-index: 1;
+                        color: rgba(153, 74, 74, 0.781);
+                        top: 40%;
+                        left:45% ;}
+                        .bggif .content .derinden  .yazı7{
+                            font-family: Arial, Helvetica, sans-serif;
+                            position: absolute;
+                            z-index: 1;
+                            color: rgba(153, 74, 74, 0.781);
+                            top: 55%;
+                            left:45% ;}
+                            .bggif .content .derinden  .yazı8{
+                                font-family: Arial, Helvetica, sans-serif;
+                                position: absolute;
+                                z-index: 1;
+                                color: rgba(153, 74, 74, 0.781);
+                                top: 70%;
+                                left:45% ;}.bggif .content .derinden  .yazı9{
+                                    font-family: Arial, Helvetica, sans-serif;
+                                    position: absolute;
+                                    z-index: 1;
+                                    color: rgba(153, 74, 74, 0.781);
+                                    top: 85%;
+                                    left:45% ;}.bggif .content .derinden  .yazı10{
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        position: absolute;
+                                        z-index: 1;
+                                        color: rgba(153, 74, 74, 0.781);
+                                        top: 100%;
+                                        left:45% ;}
+                                          .bggif .content .derinden  .yazı11{
+ font-family: Arial, Helvetica, sans-serif;
+ position: absolute;
+ z-index: 1;
+ color: rgba(153, 74, 74, 0.781);
+ top:115%;
+ left:45% ;}
+ .bggif .content .vid5 video{
+     position: absolute;
+     z-index: 1;
+     width: 200px;
+     height: 100px;
+     top: 116%;
+     left: 1%;
+ 
+ }
+ .bggif .content .beni details summary{
+     font-family: Arial, Helvetica, sans-serif;
+     position: absolute;
+     z-index: 1;
+     color: rgba( 153,74,74,0.781);
+     top: 133%;
+     left: 3%;
+ }
+ .bggif .content .beni  .yazı12{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 20%;
+left:45% ;}
+.bggif .content .beni  .yazı13{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 35%;
+left:45% ;}
+.bggif .content .beni  .yazı14{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 50%;
+left:45% ;}
+.bggif .content .beni  .yazı15{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 70%;
+left:45% ;}
+.bggif .content .beni  .yazı16{
+ font-family: Arial, Helvetica, sans-serif;
+ position: absolute;
+ z-index: 1;
+ color: rgba(153, 74, 74, 0.781);
+ top: 85%;
+ left:45% ;}
+ .bggif .content .beni  .yazı17{
+ font-family: Arial, Helvetica, sans-serif;
+ position: absolute;
+ z-index: 1;
+ color: rgba(153, 74, 74, 0.781);
+ top: 105%;
+ left:45% ;}
+ .bggif .content .beni  .yazı18{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 110%;
+left:45% ;}
+.bggif .content .beni  .yazı19{
+ font-family: Arial, Helvetica, sans-serif;
+ position: absolute;
+ z-index: 1;
+ color: rgba(153, 74, 74, 0.781);
+ top: 130%;
+ left:45% ;}
+ .bggif .content .beni  .yazı20{
+ font-family: Arial, Helvetica, sans-serif;
+ position: absolute;
+ z-index: 1;
+ color: rgba(153, 74, 74, 0.781);
+ top: 145%;
+ left:45% ;}
+ .bggif .content .beni  .yazı21{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 170%;
+left:45% ;}
+.bggif .content .beni  .yazı22{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 205%;
+left:45% ;}
+.bggif .content .vid6 video{
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 100px;
+    top: 140%;
+    left: 1%;
+
+}
+.bggif .content .uslanmıyor details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba( 153,74,74,0.781);
+    top: 157%;
+    left: 4%;
+}
+.bggif .content .uslanmıyor  .yazı23{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 100%;
+    left:45% ;}
+.bggif .content .uslanmıyor  .yazı24{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 115%;
+    left:45% ;}
+.bggif .content .uslanmıyor  .yazı25{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 130%;
+left:45% ;}
+.bggif .content .uslanmıyor  .yazı26{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 145%;
+left:45% ;}
+.bggif .content .vid7 video{
+    position: absolute;
+    z-index: 1;
+    width: 200px;
+    height: 100px;
+    top: 165%;
+    left: 1%;
+
+}
+.bggif .content .olsun details summary{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba( 153,74,74,0.781);
+    top: 182%;
+    left: 6%;
+}
+.bggif .content .olsun  .yazı27{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 110%;
+left:45% ;}
+.bggif .content .olsun .yazı28{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 125%;
+left:45% }
+.bggif .content .olsun .yazı29{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 140%;
+    left:45% }
+    .bggif .content .olsun  .yazı30{
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        z-index: 1;
+        color: rgba(153, 74, 74, 0.781);
+        top: 150%;
+        left:45% }
+        .bggif .content .olsun  .yazı31{
+            font-family: Arial, Helvetica, sans-serif;
+            position: absolute;
+            z-index: 1;
+            color: rgba(153, 74, 74, 0.781);
+            top: 165%;
+            left:45% }
+            .bggif .content .vid8 video{
+                position: absolute;
+                z-index: 1;
+                width: 200px;
+                height: 100px;
+                top: 190%;
+                left: 1%;
+            
+            }            
+            .bggif .content .aşk details summary{
+                font-family: Arial, Helvetica, sans-serif;
+                position: absolute;
+                z-index: 1;
+                color: rgba( 153,74,74,0.781);
+                top: 207%;
+                left: 6%;
+            }
+            .bggif .content .aşk  .yazı32{
+                font-family: Arial, Helvetica, sans-serif;
+                position: absolute;
+                z-index: 1;
+                color: rgba(153, 74, 74, 0.781);
+                top: 100%;
+                left:45% }
+                .bggif .content .aşk  .yazı33{
+                    font-family: Arial, Helvetica, sans-serif;
+                    position: absolute;
+                    z-index: 1;
+                    color: rgba(153, 74, 74, 0.781);
+                    top: 115%;
+                    left:45% }
+                    .bggif .content .aşk  .yazı34{
+                        font-family: Arial, Helvetica, sans-serif;
+                        position: absolute;
+                        z-index: 1;
+                        color: rgba(153, 74, 74, 0.781);
+                        top: 130%;
+                        left:45% }
+                        .bggif .content .aşk  .yazı35{
+                            font-family: Arial, Helvetica, sans-serif;
+                            position: absolute;
+                            z-index: 1;
+                            color: rgba(153, 74, 74, 0.781);
+                            top: 145%;
+                            left:45% }
+                            .bggif .content .aşk  .yazı36{
+                                font-family: Arial, Helvetica, sans-serif;
+                                position: absolute;
+                                z-index: 1;
+                                color: rgba(153, 74, 74, 0.781);
+                                top: 160%;
+                                left:45% }   
+                                .bggif .content .aşk  .yazı37{
+                                    font-family: Arial, Helvetica, sans-serif;
+                                    position: absolute;
+                                    z-index: 1;
+                                    color: rgba(153, 74, 74, 0.781);
+                                    top: 175%;
+                                    left:45% }
+                                    .bggif .content .aşk  .yazı38{
+font-family: Arial, Helvetica, sans-serif;
+position: absolute;
+z-index: 1;
+color: rgba(153, 74, 74, 0.781);
+top: 190%;
+left:45% }                        
+.bggif .content .aşk  .yazı39{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 1;
+    color: rgba(153, 74, 74, 0.781);
+    top: 205%;
+    left:45% }
+    .bggif .content .vid9 video{
+        position: absolute;
+        z-index: 1;
+        width: 200px;
+        height: 100px;
+        top: 215%;
+        left: 1%;
+    
+    }    
+    .bggif .content .ay details summary{
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        z-index: 1;
+        color: rgba( 153,74,74,0.781);
+        top: 232%;
+        left:4%;
+    }   
+    .bggif .content .ay  .yazı40{
+        font-family: Arial, Helvetica, sans-serif;
+        position: absolute;
+        z-index: 1;
+        color: rgba(153, 74, 74, 0.781);
+        top: 130%;
+        left:45% }    
+        .bggif .content .ay .yazı41{
+            font-family: Arial, Helvetica, sans-serif;
+            position: absolute;
+            z-index: 1;
+            color: rgba(153, 74, 74, 0.781);
+            top: 145%;
+            left:45% }
+            .bggif .content .ay  .yazı42{
+                font-family: Arial, Helvetica, sans-serif;
+                position: absolute;
+                z-index: 1;
+                color: rgba(153, 74, 74, 0.781);
+                top: 160%;
+                left:45% }
+                .bggif .content .ay  .yazı43{
+                    font-family: Arial, Helvetica, sans-serif;
+                    position: absolute;
+                    z-index: 1;
+                    color: rgba(153, 74, 74, 0.781);
+                    top: 175%;
+                    left:45% }
+                    .bggif .content .ay .yazı44{
+                        font-family: Arial, Helvetica, sans-serif;
+                        position: absolute;
+                        z-index: 1;
+                        color: rgba(153, 74, 74, 0.781);
+                        top: 190%;
+                        left:45% }
+                        .bggif .content .ay  .yazı45{
+                            font-family: Arial, Helvetica, sans-serif;
+                            position: absolute;
+                            z-index: 1;
+                            color: rgba(153, 74, 74, 0.781);
+                            top: 205%;
+                            left:45% } 
+                            .bggif .content .ay  .yazı46{
+                                font-family: Arial, Helvetica, sans-serif;
+                                position: absolute;
+                                z-index: 1;
+                                color: rgba(153, 74, 74, 0.781);
+                                top: 220%;
+                                left:45% } 
+                                .bggif .content .vid10 video{
+                                    position: absolute;
+                                    z-index: 1;
+                                    width: 200px;
+                                    height: 100px;
+                                    top: 240%;
+                                    left: 1%;
+                                    
+                                }
+                                .bggif .content .anlamazdın details summary{
+                                    font-family: Arial, Helvetica, sans-serif;
+                                    position: absolute;
+                                    z-index: 1;
+                                    color: rgba( 153,74,74,0.781);
+                                    top: 260%;
+                                    left:4%;
+                                }   
+                                .bggif .content .anlamazdın .yazı47{
+                                    font-family: Arial, Helvetica, sans-serif;
+                                    position: absolute;
+                                    z-index: 1;
+                                    color: rgba(153, 74, 74, 0.781);
+                                    top: 150%;
+                                    left:45% } 
+                                    .bggif .content .anlamazdın .yazı48{
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        position: absolute;
+                                        z-index: 1;
+                                        color: rgba(153, 74, 74, 0.781);
+                                        top: 165%;
+                                        left:45% } 
+                                        .bggif .content .anlamazdın  .yazı49{
+                                            font-family: Arial, Helvetica, sans-serif;
+                                            position: absolute;
+                                            z-index: 1;
+                                            color: rgba(153, 74, 74, 0.781);
+                                            top: 180%;
+                                            left:45% } 
+                                            .bggif .content .anlamazdın .yazı50{
+                                                font-family: Arial, Helvetica, sans-serif;
+                                                position: absolute;
+                                                z-index: 1;
+                                                color: rgba(153, 74, 74, 0.781);
+                                                top: 195%;
+                                                left:45% } 
+                                                .bggif .content .anlamazdın .yazı51{
+                                                    font-family: Arial, Helvetica, sans-serif;
+                                                    position: absolute;
+                                                    z-index: 1;
+                                                    color: rgba(153, 74, 74, 0.781);
+                                                    top: 210%;
+                                                    left:45% } 
+                                                    .bggif .content .anlamazdın  .yazı52{
+                                                        font-family: Arial, Helvetica, sans-serif;
+                                                        position: absolute;
+                                                        z-index: 1;
+                                                        color: rgba(153, 74, 74, 0.781);
+                                                        top: 225%;
+                                                        left:45% } 
+                                                        .bggif .content .anlamazdın  .yazı53{
+                                                            font-family: Arial, Helvetica, sans-serif;
+                                                            position: absolute;
+                                                            z-index: 1;
+                                                            color: rgba(153, 74, 74, 0.781);
+                                                            top: 240%;
+                                                            left:45% } 
+                                                            .bggif .content .vid11 video{
+                                                                position: absolute;
+                                                                z-index: 1;
+                                                                width: 200px;
+                                                                height: 100px;
+                                                                top: 265%;
+                                                                left: 1%;
+                                                                
+                                                            }
+                                                            .bggif .content .benisen details summary{
+                                                                font-family: Arial, Helvetica, sans-serif;
+                                                                position: absolute;
+                                                                z-index: 1;
+                                                                color: rgba( 153,74,74,0.781);
+                                                                top: 285%;
+                                                                left:3%;
+                                                            }   
+                                                            
+                                                            .bggif .content .benisen .yazı54{
+                                                                font-family: Arial, Helvetica, sans-serif;
+                                                                position: absolute;
+                                                                z-index: 1;
+                                                                color: rgba(153, 74, 74, 0.781);
+                                                                top: 180%;
+                                                                left:45% } 
+                                                                .bggif .content .benisen .yazı55{
+                                                                    font-family: Arial, Helvetica, sans-serif;
+                                                                    position: absolute;
+                                                                    z-index: 1;
+                                                                    color: rgba(153, 74, 74, 0.781);
+                                                                    top:200%;
+                                                                    left:45% } 
+                                                                    .bggif .content .benisen .yazı56{
+                                                                        font-family: Arial, Helvetica, sans-serif;
+                                                                        position: absolute;
+                                                                        z-index: 1;
+                                                                        color: rgba(153, 74, 74, 0.781);
+                                                                        top: 220%;
+                                                                        left:45% } 
+                                                                        .bggif .content .benisen .yazı57{
+                                                                            font-family: Arial, Helvetica, sans-serif;
+                                                                            position: absolute;
+                                                                            z-index: 1;
+                                                                            color: rgba(153, 74, 74, 0.781);
+                                                                            top: 235%;
+                                                                            left:45% } .bggif .content .benisen .yazı58{
+                                                                                font-family: Arial, Helvetica, sans-serif;
+                                                                                position: absolute;
+                                                                                z-index: 1;
+                                                                                color: rgba(153, 74, 74, 0.781);
+                                                                                top: 250%;
+                                                                                left:45% } 
+                                                                                .bggif .content .benisen .yazı59{
+                                                                                    font-family: Arial, Helvetica, sans-serif;
+                                                                                    position: absolute;
+                                                                                    z-index: 1;
+                                                                                    color: rgba(153, 74, 74, 0.781);
+                                                                                    top: 265%;
+                                                                                    left:45% } 
+                                                                                   
+                                                           
